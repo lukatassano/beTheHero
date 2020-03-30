@@ -1,4 +1,5 @@
 # Be The Hero
+
 <p align="center" > 
 <img src="./assets/logo.svg" height="50%" />
 <p/>
@@ -10,6 +11,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
 </p>
 
+### Projeto realizado na semana Omnistack 11.0
 ### Tecnologias usadas
 - Back-end:
   - [Node.js](https://nodejs.org/en/) :
