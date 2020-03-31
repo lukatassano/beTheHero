@@ -1,7 +1,5 @@
-# Be The Hero
-
 <p align="center" > 
-<img src="./assets/logo.svg" height="50%" />
+<img src="./assets/logo.svg" height="70%" />
 <p/>
 
 <p align="center">
