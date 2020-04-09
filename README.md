@@ -9,7 +9,11 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
 </p>
 
-### Projeto realizado na semana Omnistack 11.0
+<p align="center" >
+  Seja o herói e ajude ONGs
+</p>
+
+#### Projeto realizado na semana Omnistack 11.0
 ### Tecnologias usadas
 - Back-end:
   - [Node.js](https://nodejs.org/en/) :
@@ -39,3 +43,11 @@
   <img src="./assets/screenshotHome.png" width="30%" >
   <img src="./assets/screenshotDetails.png" width="30%" >
 <p/>
+
+<h1 align="center">
+    Certificado \o/
+</h1>
+
+<p align="center">
+  <img width="80%" src="./assets/certificado.jpg">
+</p>
