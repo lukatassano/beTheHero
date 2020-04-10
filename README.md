@@ -34,11 +34,12 @@
     - [Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
     - [Axios](https://github.com/axios/axios)
     
-
+## Front-end
 <p align="center" >
   <img src="./assets/web.png" >
 <p/>
 
+## Mobile
 <p>
   <img src="./assets/screenshotHome.png" width="30%" >
   <img src="./assets/screenshotDetails.png" width="30%" >
