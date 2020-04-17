@@ -39,13 +39,13 @@
   <img src="./assets/web.png" >
 <p/>
 
-<p>
+<p align="center" >
   <img src="./assets/screenshotHome.png" width="30%" >
   <img src="./assets/screenshotDetails.png" width="30%" >
 <p/>
 
 <h1 align="center">
-    Certificado \o/
+    Certificado
 </h1>
 
 <p align="center">
