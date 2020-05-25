@@ -14,8 +14,11 @@
 </p>
 
 #### Projeto realizado na semana Omnistack 11.0
+
 ### Tecnologias usadas
+
 - Back-end:
+
   - [Node.js](https://nodejs.org/en/) :
     - [Express](https://expressjs.com/pt-br/)
     - [Nodemon](https://www.npmjs.com/package/nodemon)
@@ -24,30 +27,24 @@
     - [Knex](http://knexjs.org/)
 
 - Front-end:
+
   - [React](https://pt-br.reactjs.org/) :
     - [Axios](https://github.com/axios/axios)
     - [React router dom](https://reacttraining.com/react-router/web/guides/quick-start)
 
 - Mobile:
+
   - [React Native](https://reactnative.dev/)
+
     - [Expo](https://expo.io/)
     - [Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
     - [Axios](https://github.com/axios/axios)
-    
 
 <p align="center" >
   <img src="./assets/web.png" >
-<p/>
+</p>
 
 <p align="center" >
   <img src="./assets/screenshotHome.png" width="30%" >
   <img src="./assets/screenshotDetails.png" width="30%" >
-<p/>
-
-<h1 align="center">
-    Certificado
-</h1>
-
-<p align="center">
-  <img width="80%" src="./assets/certificado.jpg">
 </p>
